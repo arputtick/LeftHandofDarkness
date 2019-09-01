@@ -39,13 +39,6 @@ var waveSpeed = .25;
 var waveDirect = 1;
 var del = 0
 
-// //Arduino
-// var serial;                            // variable to hold an instance of the serialport library
-// var options = { baudrate: 9600};      // set baudrate to 9600; must match Arduino baudrate
-// var portName = '/dev/tty.usbmodem14101'; // fill in your serial port name here
-// var inData;
-// let button_left; // our first button value
-// let button_right;
 
 function preload(){
   //textbox and font
