@@ -46,8 +46,8 @@ function preload(){
   Minecraft = loadFont('font/Minecraft.ttf')
 
   //screen 1 images
-  buildings = loadImage('images/buildings.PNG')
-  buildings_robo = loadImage('images/buildings_robo.PNG')
+  buildings = loadImage('images/buildings.png')
+  buildings_robo = loadImage('images/buildings_robo.png')
 
   //screen 2 images
   autopilot = loadImage('images/autopilot.PNG')
