@@ -42,56 +42,56 @@ var del = 0
 
 function preload(){
   //textbox and font
-  textbox = loadImage('images/textbox.png')
+  textbox = loadImage('images/textbox.PNG')
   Minecraft = loadFont('font/Minecraft.ttf')
 
   //screen 1 images
-  buildings = loadImage('images/buildings.png')
-  buildings_robo = loadImage('images/buildings_robo.png')
+  buildings = loadImage('images/buildings.PNG')
+  buildings_robo = loadImage('images/buildings_robo.PNG')
 
   //screen 2 images
-  autopilot = loadImage('images/autopilot.png')
-  arm = loadImage('images/robot-arm.png')
+  autopilot = loadImage('images/autopilot.PNG')
+  arm = loadImage('images/robot-arm.PNG')
 
   //screen 3 images
-  happy = loadImage('images/happy.png')
-  sigh = loadImage('images/sigh.png')
-  thinking = loadImage('images/thinking.png')
-  phone_sigh = loadImage('images/phone_sigh.png')
+  happy = loadImage('images/happy.PNG')
+  sigh = loadImage('images/sigh.PNG')
+  thinking = loadImage('images/thinking.PNG')
+  phone_sigh = loadImage('images/phone_sigh.PNG')
 
   //screen 4 resources
   imgTable = loadTable('images/imageData.csv')
 
   //screen 5 images
-  house = loadImage('images/house.png')
-  robot = loadImage('images/house foreground.png')
+  house = loadImage('images/house.PNG')
+  robot = loadImage('images/house foreground.PNG')
 
   //screen 6 images
   tv = loadImage('images/netclix.png')
-  living_room = loadImage('images/netclix and charge.png')
+  living_room = loadImage('images/netclix and charge.PNG')
 
   //screen 7 images
-  nakie = loadImage('images/nakie.png')
+  nakie = loadImage('images/nakie.PNG')
 
   //screen 8 images
-  shadow = loadImage('images/shadow.png')
+  shadow = loadImage('images/shadow.PNG')
 
   //screen 9 images
-  surge = loadImage('images/surge protector.png')
+  surge = loadImage('images/surge protector.PNG')
 
   //screen 10 images
-  female = loadImage('images/plug female.png')
-  male = loadImage('images/male plug.png')
+  female = loadImage('images/plug female.PNG')
+  male = loadImage('images/male plug.PNG')
 
   //screen 11 images
-  surprise = loadImage('images/surprise.png')
-  melting = loadImage('images/melting.png')
+  surprise = loadImage('images/surprise.PNG')
+  melting = loadImage('images/melting.PNG')
 
   //screen 12 images
-  shadow2 = loadImage('images/shadow_wire.png')
+  shadow2 = loadImage('images/shadow_wire.PNG')
 
   //screen 14 images
-  robot_sun = loadImage('images/robot sunset.png')
+  robot_sun = loadImage('images/robot sunset.PNG')
 
   //questions
   questions = loadTable('questions/questions.csv')
